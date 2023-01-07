@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GOlang**
 
-- 👯 I’m looking to collaborate on **Fun and exciting projects where I get to learn alone**
+- 👯 I’m looking to collaborate on **Fun and exciting projects where I get to learn**
 
 - 👨‍💻 All of my projects are available at [https://tobi-olanitori.netlify.app/](https://tobi-olanitori.netlify.app/)
 
