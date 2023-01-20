@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Tobiolanitori@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14ucMgHwnJ4AbN3onLA2T7dMMyMAO5F-V/view?usp=share_link]([https://drive.google.com/file/d/1e_Df5XNo7x5kzsZcUIRg2K9dNodYLKRy/view?usp=sharing](https://drive.google.com/file/d/14ucMgHwnJ4AbN3onLA2T7dMMyMAO5F-V/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14ucMgHwnJ4AbN3onLA2T7dMMyMAO5F-V/view?usp=share_link](https://drive.google.com/file/d/14ucMgHwnJ4AbN3onLA2T7dMMyMAO5F-V/view?usp=share_link)
 
 - ⚡ Fun fact **Music is how I distress**
 
