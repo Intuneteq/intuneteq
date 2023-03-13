@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/free-vector/creative-web-homepage-illustration_52683-79847.jpg?w=1000&t=st=1673095964~exp=1673096564~hmac=1db36a9e2a415a558ad8581618b8d87d3ce52f8367cd4e2e18b1494fb2028e1a)
 <h1 align="center">Hi 👋, I'm Tobi Olanitori</h1>
 <h3 align="center">I am a Full-stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://tobi-olanitori.netlify.app/static/media/profile.ba94e00b8c9539fdfa32.png">
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Fun and exciting projects where I get to learn**
 
-- 👨‍💻 All of my projects are available at [https://tobi-olanitori.netlify.app/](https://tobi-olanitori.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://intuneteq.tk/)
 
 - 💬 Ask me about **Javascript, Nodejs, express, PHP, Laravel, React, Vue**
 
@@ -35,5 +34,4 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intuneteq&show_icons=true&locale=en" alt="intuneteq" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intuneteq&" alt="intuneteq" /></p> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=intuneteq&theme=neon-dark)](https://git.io/streak-stats)
