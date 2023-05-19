@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Link-park](https://link-park-v3.vercel.app/)
 
-- 🌱 I’m currently learning **GOlang**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **Fun and exciting projects where I get to learn**
 
