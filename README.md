@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tobi Olanitori</h1>
-<h3 align="center">I am a Full-stack Developer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://tobi-olanitori.netlify.app/static/media/profile.ba94e00b8c9539fdfa32.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intuneteq&label=Profile%20views&color=0e75b6&style=flat" alt="intuneteq" /> </p>
 
-- 🔭 I’m currently working on [Link-park](https://link-park-v3.vercel.app/)
+- 🔭 I’m currently working on [Techstudio](https://techstudioacademy.com/)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **Fun and exciting projects where I get to learn**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://intuneteq.tk/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://tobiolanitori.com/)
 
-- 💬 Ask me about **Javascript, Nodejs, express, PHP, Laravel, React, Vue**
+- 💬 Ask me about **Javascript, Nodejs, express, NestJs PHP, Laravel, React, JAVA, Springboot**
 
 - 📫 How to reach me **Tobiolanitori@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1oNqBaWis-qCDXzUQDHnrp4TaDXx6FZth/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1B7YHfcDPvvI8sC54E67XbwnGTrew4hIA/edit?pli=1)
 
 - ⚡ Fun fact **Music is how I distress**
 
